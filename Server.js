@@ -18,7 +18,7 @@ app.listen(3000, () => {
 //get Method using Routes
 
 app.get("/", (req, res) => {
-    res.send("Hii ,Aryan");
+    res.send('Hii,Aryan....')
 })
 
 
